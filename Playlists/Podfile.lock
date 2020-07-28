@@ -1,0 +1,60 @@
+PODS:
+  - Alamofire (5.2.2)
+  - AlamofireImage (4.1.0):
+    - Alamofire (~> 5.1)
+  - lottie-ios (3.1.8)
+  - RxBlocking (4.5.0):
+    - RxSwift (>= 4.4.2, ~> 4.4)
+  - RxCocoa (4.5.0):
+    - RxSwift (>= 4.4.2, ~> 4.4)
+  - RxSwift (4.5.0)
+  - RxTest (4.5.0):
+    - RxSwift (>= 4.4.2, ~> 4.4)
+  - SwiftGen (6.2.1)
+  - SwiftLint (0.39.2)
+  - SwiftyJSON (4.0.0)
+  - Swinject (2.7.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.2)
+  - AlamofireImage (~> 4.1)
+  - lottie-ios
+  - RxBlocking
+  - RxCocoa
+  - RxSwift
+  - RxTest
+  - SwiftGen (~> 6.0)
+  - SwiftLint
+  - SwiftyJSON (~> 4.0.0)
+  - Swinject
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireImage
+    - lottie-ios
+    - RxBlocking
+    - RxCocoa
+    - RxSwift
+    - RxTest
+    - SwiftGen
+    - SwiftLint
+    - SwiftyJSON
+    - Swinject
+
+SPEC CHECKSUMS:
+  Alamofire: 814429acc853c6c54ff123fc3d2ef66803823ce0
+  AlamofireImage: c4a2ba349885fb3064feb74d2e547bd42ce9be10
+  lottie-ios: 48fac6be217c76937e36e340e2d09cf7b10b7f5f
+  RxBlocking: 79413e4d916f44bb3e113c5b2cc059e36fe58910
+  RxCocoa: cbf70265dc65a981d4ac982e513c10cf23df24a0
+  RxSwift: f172070dfd1a93d70a9ab97a5a01166206e1c575
+  RxTest: 3ccb66bfbace0bf7df1c43a7c75d046f8ce60372
+  SwiftGen: 62e69d127507be1538d4263e137b2290cd6ab272
+  SwiftLint: 22ccbbe3b8008684be5955693bab135e0ed6a447
+  SwiftyJSON: 070dabdcb1beb81b247c65ffa3a79dbbfb3b48aa
+  Swinject: ddf78b8486dd9b71a667b852cad919ab4484478e
+
+PODFILE CHECKSUM: de2a66fa0ed8cad3a4d0dbd5ba6103585d90690e
+
+COCOAPODS: 1.9.3

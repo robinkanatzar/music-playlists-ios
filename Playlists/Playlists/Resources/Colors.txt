@@ -1,0 +1,5 @@
+PrimaryColor: #7265e3
+SecondaryColor: #e1ddf5
+
+BackgroundColor: #f4f6fa
+TextColor: #464646

@@ -1,0 +1,26 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'Playlists' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for Playlists
+  pod 'RxSwift'
+  pod 'RxCocoa'
+  pod 'Swinject'
+  pod 'Alamofire', '~> 5.2'
+  pod 'AlamofireImage', '~> 4.1'
+  pod 'SwiftLint'
+  pod 'SwiftGen', '~> 6.0'
+  pod 'lottie-ios'
+  pod 'SwiftyJSON', '~> 4.0.0'
+
+  target 'PlaylistsTests' do
+    inherit! :search_paths
+    # Pods for testing
+    pod 'RxBlocking'
+    pod 'RxTest'
+  end
+
+end

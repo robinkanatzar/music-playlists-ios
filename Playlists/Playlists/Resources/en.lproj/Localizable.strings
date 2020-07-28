@@ -1,0 +1,22 @@
+/* 
+  Localizable.strings
+  Playlists
+
+  Created by Robin Kanatzar on 7/27/20.
+  Copyright © 2020 Robin Kanatzar. All rights reserved.
+ 
+  ENGLISH
+*/
+
+// General
+"unknown" = "unknown";
+"ok" = "ok";
+
+// Error
+"error.unknown" = "An error has occurred";
+
+// Playlist List
+"playlist_list.title" = "Playlists";
+
+// Playlist Detail
+"playlist_detail.author" = "by %@";
